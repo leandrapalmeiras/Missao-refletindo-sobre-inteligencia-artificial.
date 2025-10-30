@@ -8,7 +8,7 @@
 
 
 body{
-    background-imagem: url('./fotos/IA-thyroid.pn');
+    background-imagem: url('./fotos/IA-thyroid.png');
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
@@ -44,6 +44,7 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
 
 
 
